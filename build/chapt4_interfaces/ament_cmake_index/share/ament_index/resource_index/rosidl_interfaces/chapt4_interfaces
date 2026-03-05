@@ -1,0 +1,4 @@
+srv/Partol.idl
+srv/Partol.srv
+srv/Partol_Request.msg
+srv/Partol_Response.msg

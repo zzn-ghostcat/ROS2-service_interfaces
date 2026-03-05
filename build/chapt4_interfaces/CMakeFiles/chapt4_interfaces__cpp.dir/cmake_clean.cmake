@@ -1,0 +1,13 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/chapt4_interfaces__cpp"
+  "rosidl_generator_cpp/chapt4_interfaces/srv/detail/partol__builder.hpp"
+  "rosidl_generator_cpp/chapt4_interfaces/srv/detail/partol__struct.hpp"
+  "rosidl_generator_cpp/chapt4_interfaces/srv/detail/partol__traits.hpp"
+  "rosidl_generator_cpp/chapt4_interfaces/srv/detail/partol__type_support.hpp"
+  "rosidl_generator_cpp/chapt4_interfaces/srv/partol.hpp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/chapt4_interfaces__cpp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
